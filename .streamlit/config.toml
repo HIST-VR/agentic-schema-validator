@@ -1,0 +1,23 @@
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#0E6B67"
+backgroundColor = "#F6F1E7"
+secondaryBackgroundColor = "#EBE4D6"
+textColor = "#1C1915"
+borderColor = "#D9D0C1"
+linkColor = "#0E6B67"
+showWidgetBorder = true
+baseRadius = "medium"
+font = "'Source Sans 3':https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560&display=swap"
+codeFont = "'Source Code Pro':https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500&display=swap"
+headingFontSizes = ["2.6rem", "1.6rem", "1.2rem", "1.05rem", "0.95rem", "0.85rem"]
+headingFontWeights = [560, 560, 560, 560, 500, 500]
+dataframeHeaderBackgroundColor = "#E7F3F2"
+dataframeHeaderTextColor = "#0E6B67"
